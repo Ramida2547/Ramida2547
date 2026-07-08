@@ -38,10 +38,10 @@
 * **Core Strengths:** `Problem Solving` & `Teamwork` — พร้อมลุยงานเป็นทีมและแก้ไข Bug ไปด้วยกัน
 
 * ## 🚀 My Capabilities At A Glance
-| ความสามารถทางเทคนิค (Hard Skills) | ความสามารถส่วนบุคคล (Soft Skills) |
+ความสามารถทางเทคนิค (Hard Skills) | ความสามารถส่วนบุคคล (Soft Skills) |
 
-| • พัฒนา Responsive Web (HTML/CSS/JS) | • การคิดวิเคราะห์และแก้ไขปัญหา (Problem Solving) |
-| • ออกแบบระบบและฐานข้อมูล (SAD / MySQL) | • การทำงานร่วมกันเป็นทีม (Team Collaboration) |
-| • ควบคุมเวอร์ชันของซอร์สโค้ด (Git / GitHub) | • การเรียนรู้สิ่งใหม่ด้วยตนเอง (Self-Learning) |
-| • เขียนโค้ดตามหลัก Object-Oriented (OOP) | • การสื่อสารในสายงานเทคโนโลยี (Tech Communication) |
+| • พัฒนา Responsive Web (HTML/CSS/JS)    | • การคิดวิเคราะห์และแก้ไขปัญหา (Problem Solving)
+| • ออกแบบระบบและฐานข้อมูล (SAD / MySQL)   | • การทำงานร่วมกันเป็นทีม (Team Collaboration) 
+| • ควบคุมเวอร์ชันของซอร์สโค้ด (Git / GitHub) | • การเรียนรู้สิ่งใหม่ด้วยตนเอง (Self-Learning) 
+| • เขียนโค้ดตามหลัก Object-Oriented (OOP)  | • การสื่อสารในสายงานเทคโนโลยี (Tech Communication) 
   
